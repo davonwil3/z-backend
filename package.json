@@ -21,6 +21,7 @@
     "marked": "^15.0.8",
     "mongoose": "^8.13.2",
     "openai": "^4.91.1",
+    "sentiment": "^5.0.2",
     "snoowrap": "^1.23.0"
   },
   "devDependencies": {
